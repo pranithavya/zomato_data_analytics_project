@@ -1,1 +1,1 @@
-# zomato_data_analtics_project
+# zomato_data_analytics_project
